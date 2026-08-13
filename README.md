@@ -1,7 +1,7 @@
-# DACA Portfoolio -- [Laura Johanson]
+# DACA Portfoolio -- Laura Johanson
 
 ## Minust
-[Mulle meeldib leida lahendusi keerukatele ülesannetele. Mul on hea keskendumisvõime ja sihikindlus. Liitusin DACA programmiga, et arendada oma teadmisi ja oskusi andmeanalüütika valdkonnas ning teha selles suunas oma karjääris järgmine samm.]
+Mulle meeldib leida lahendusi keerukatele ülesannetele. Mul on hea keskendumisvõime ja sihikindlus. Liitusin DACA programmiga, et arendada oma teadmisi ja oskusi andmeanalüütika valdkonnas ning teha selles suunas oma karjääris järgmine samm.
 
 ## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
