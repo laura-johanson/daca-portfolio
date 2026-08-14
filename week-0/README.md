@@ -1,5 +1,36 @@
 # Nädal 0: Onboarding
-Selle nädala eesmärgid: tööriistade seadistused (Supabase, GitHub, VS Code + Python, Power BI,  NotebookLM)
-Tulemus: kõik koolituseks vajalikud keskkonnad on seadistatud.
-1. grupitöö: meeskonna ühiste keskkondade loomine (ühine GitHub repo, ühine Supabase projekt, ühine NotebookLM notebook, Team Charter)
-Meie meeskonna nimi on UrbanStyle Marketing data. Minu roll oli A: GitHub Repo + Team Charter. Lõin meeskonnale ühise GitHup repo, kuhu lisasin tiimi README ja Charteri: https://github.com/laura-johanson/urbanstyle-marketing-data 
+Eesmärgid
+
+Nädala eesmärk oli seadistada kõik koolituseks vajalikud tööriistad ja keskkonnad:
+
+Supabase
+GitHub
+VS Code + Python
+Power BI
+NotebookLM
+
+Tulemus: kõik koolituseks vajalikud keskkonnad on seadistatud ja valmis kasutamiseks.
+
+Grupitöö
+
+Grupitöö eesmärk oli luua meeskonnale ühised töövahendid ja kokkulepped:
+
+ühine GitHub repository
+ühine Supabase projekt
+ühine NotebookLM notebook
+Team Charter
+
+Meie meeskonna nimi on UrbanStyle Marketing Data.
+
+Minu roll
+
+Minu roll oli A – GitHub Repo + Team Charter.
+
+Minu ülesanded olid:
+
+luua meeskonnale ühine GitHub repository;
+luua ja lisada tiimi README;
+koostada ja lisada Team Charter.
+
+Meie meeskonna GitHub repository:
+https://github.com/laura-johanson/urbanstyle-marketing-data
