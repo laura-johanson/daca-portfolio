@@ -1,7 +1,7 @@
 # Nädal 0: Onboarding
-## Eesmärgid
+## Eesmärk
 
-Nädala eesmärk oli seadistada kõik koolituseks vajalikud tööriistad ja keskkonnad:
+Koolituseks vajalike tööriistade ja keskkondade seadistamine:
 
 - Supabase
 - GitHub
@@ -9,28 +9,19 @@ Nädala eesmärk oli seadistada kõik koolituseks vajalikud tööriistad ja kesk
 - Power BI
 - NotebookLM
 
-**Tulemus:** kõik koolituseks vajalikud keskkonnad on seadistatud ja valmis kasutamiseks.
-
 ## Grupitöö
 
-Grupitöö eesmärk oli luua meeskonnale ühised töövahendid ja kokkulepped:
+Meeskonna **UrbanStyle Marketing Data** ühiste töövahendite loomine:
 
-- ühine GitHub repository
-- ühine Supabase projekt
-- ühine NotebookLM notebook
+- GitHub repository
+- Supabase projekt
+- NotebookLM notebook
 - Team Charter
-
-Meie meeskonna nimi on **UrbanStyle Marketing Data**.
 
 ### Minu roll
 
-Minu roll oli **A – GitHub Repo + Team Charter**.
+**A – GitHub Repo + Team Charter**
 
-Minu ülesanded olid:
+Lõin meeskonnale ühise GitHub repository ning lisasin sinna tiimi README ja Team Charteri.
 
-- luua meeskonnale ühine GitHub repository
-- luua ja lisada tiimi README
-- koostada ja lisada Team Charter
-
-**Meie meeskonna GitHub repository:**  
-https://github.com/laura-johanson/urbanstyle-marketing-data
+[UrbanStyle Marketing Data – GitHub repository](https://github.com/laura-johanson/urbanstyle-marketing-data)
