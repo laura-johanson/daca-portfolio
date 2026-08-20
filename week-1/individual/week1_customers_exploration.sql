@@ -1,7 +1,4 @@
--- Nädal: 1          Meeskond: UrbanStyle Marketing data          Roll: B
-
--- Mina uurisin kliendiandmeid ehk customers tabelit. Leidsin, et UrbanStyle´il on 3150 klienti. Meil on nende kohta olemas palju andmeid (9 veergu), nt ees- ja perekonnanimi, email, telefon jne. Esimene klient registreerus 02.01.2020 ja viimane klient 27.02.2025. Leidsin, et tabelis on 380 sellist klienti, kelle e-mail on puudu. UrbanStyle´i jaoks tähendab see, et kui me soovime klientidele saata uudiskirja või reklaamkampaania, siis me ei jõua umbes 12% klientideni.
-
+-- Nädal: 1          Meeskond: UrbanStyle Marketing data          Roll: B Kliendiandmete uurija 
 
 -- 1. Klientide koguarv
 -- Leidsin, et UrbanStyle'il on kokku 3150 klienti.
@@ -12,7 +9,7 @@ SELECT COUNT(*) AS klientide_arv FROM customers;
 -- phone, city, registration_date, loyalty_tier ja birth_year.
 SELECT * FROM customers LIMIT 10;
 
--- Linnade jaotus. Distinct näitab ilma duplikaatideta. 
+-- 3. Linnade jaotus. Distinct näitab ilma duplikaatideta. 
 -- Kontrollisin, millised linnad on customers tabelis esindatud.
 SELECT DISTINCT city FROM customers;
 
