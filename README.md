@@ -9,8 +9,8 @@ Mulle meeldib leida lahendusi keerukatele ülesannetele. Mul on hea keskendumisv
 ## Nädala kaupa
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
-| 0 | Onboarding | Käimas |
-| 1 | SQL Basics | Tulemas |
+| 0 | Onboarding | Läbitud |
+| 1 | SQL Basics | Käimas |
 | 2 | SQL Cleaning | Tulemas |
 | 3 | SQL JOINs | Tulemas |
 | 4 | SQL Aggregation | Tulemas |
