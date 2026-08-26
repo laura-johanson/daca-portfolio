@@ -13,7 +13,7 @@ Nädala jooksul õppisin:
 
 **Roll C – Tooteandmete puhastaja (Product Data Cleaner)**
 
-Minu ülesanne oli uurida `products` tabelit, leida andmekvaliteedi probleemid ning dokumenteerida puhastamise tulemused.
+Minu ülesanne oli uurida `products` tabelit, leida andmekvaliteedi probleemid ning dokumenteerida tulemused.
 
 ## Peamised leiud
 
