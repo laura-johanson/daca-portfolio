@@ -1,4 +1,4 @@
-# Nädal 2: SQL Puhastamine
+# Nädal 2: 	SQL Cleaning
 
 ## Eesmärk
 
