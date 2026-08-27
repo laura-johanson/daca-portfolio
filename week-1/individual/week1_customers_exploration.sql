@@ -53,7 +53,7 @@ FROM customers;
 ------ Lisaülesanded -------
 
 -- 9. E-mailide unikaalsus
--- Kokku on 3150 e-maili ja 2640 unikaalset e-maili. See tähendab, et e-mailide hulgas esineb kordusi. Koos 380 puuduva e-mailiga võib see olla turunduse seisukohalt oluline probleem.  
+-- Kokku on 3150 e-maili ja 2640 unikaalset e-maili. See tähendab, et e-mailide hulgas esineb kordusi. See võib olla turunduse seisukohalt oluline probleem.  
 SELECT COUNT(*) AS kokku_emaile,
        COUNT(DISTINCT email) AS unikaalseid_emaile
 FROM customers;
