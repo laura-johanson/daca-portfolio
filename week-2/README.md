@@ -28,3 +28,6 @@ Minu ülesanne oli uurida `products` tabelit, leida andmekvaliteedi probleemid n
 Duplikaatsed või ebajärjekindlad tooteandmed võivad mõjutada toodete arvu, müügiaruandlust ja analüüside täpsust.
 
 ## Failid
+
+- [Minu SQL-päringud](https://github.com/laura-johanson/daca-portfolio/blob/main/week-2/individual/week2_products_cleaning.sql)
+- [Meeskonna puhastamisraport](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week%202)
