@@ -30,4 +30,4 @@ Duplikaatsed või ebajärjekindlad tooteandmed võivad mõjutada toodete arvu, m
 ## Failid
 
 - [Minu SQL-päringud](https://github.com/laura-johanson/daca-portfolio/blob/main/week-2/individual/week2_products_cleaning.sql)
-- [Meeskonna puhastamisraport](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week%202)
+- [Meeskonna puhastamisraport](https://github.com/laura-johanson/daca-portfolio/blob/main/week-2/team/week2_team_cleaning_report.md)
