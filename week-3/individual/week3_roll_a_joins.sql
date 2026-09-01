@@ -1,0 +1,1 @@
+-- Nädal: 3          Meeskond: UrbanStyle Marketing data          Roll: A Müügi ja klientide ühendamine
