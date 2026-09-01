@@ -32,3 +32,4 @@ Lojaalsustaseme puudumine suure ostumahuga klientidel võib vähendada UrbanStyl
 
 - [Minu SQL-päringud](./individual/week3_roll_a_joins.sql)
 - [Tulemuste screenshotid](./screenshots)
+- [Meeskonna JOIN-analüüs](https://github.com/laura-johanson/daca-portfolio/tree/main/week-3)
