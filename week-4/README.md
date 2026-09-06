@@ -39,3 +39,7 @@ Minu ülesanne oli analüüsida klientide ostukäitumist ja kogukäivet.
 ## Äriline tähelepanek
 
 Kuigi VIP-kliente on arvuliselt vähe, on nende keskmine kogukäive **üle viie korra suurem** kui Aktiivsetel klientidel. Seetõttu tasub ettevõttel pöörata erilist tähelepanu VIP-klientide hoidmisele ja nende lojaalsuse säilitamisele.
+
+## AI kasutamine
+
+Kasutasin AI-d SQL-päringute mõistmiseks, parandamiseks ja keerukamate ülesannete sammudeks jagamiseks.
