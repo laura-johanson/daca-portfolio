@@ -14,11 +14,11 @@ Minu ülesanne oli analüüsida klientide ostukäitumist ja kogukäivet.
 
 ### Analüüsisin
 
-- klientide kogukäivet ja keskmist kulutust;
-- klientide jaotamist kulutuse põhjal segmentidesse **VIP, Aktiivsed ja Tavalised**;
-- suurima kogukäibega ehk **TOP-kliente**;
-- klientide paiknemist erinevates linnades ja nende panust kogukäibesse;
-- kliendigruppide tulemusi, et tuua välja olulisemad leiud ja koostada **kliendiprofiili kokkuvõte Annale**.
+- klientide kogukäivet ja keskmist kulutust
+- klientide jaotamist kulutuse põhjal segmentidesse **VIP, Aktiivsed ja Tavalised**
+- suurima kogukäibega ehk **TOP-kliente**
+- klientide paiknemist erinevates linnades ja nende panust kogukäibesse
+- kliendigruppide tulemusi, et tuua välja olulisemad leiud ja koostada **kliendiprofiili kokkuvõte Annale**
 
 ## Peamised leiud
 
