@@ -1,0 +1,1 @@
+-- Nädal: 4          Meeskond: UrbanStyle Marketing data          Roll: B ROLL	Kliendigruppide analüüs (Customer Segmentation)
