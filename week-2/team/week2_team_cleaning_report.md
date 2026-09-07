@@ -12,4 +12,4 @@ Meeskonnatööna koostatud raport UrbanStyle'i andmete puhastamisest ja andmekva
 
 Andmete puhastamise raport on koostatud meie meeskonna ühises GitHubi repos.
 
-[Vaata meeskonna Data Cleaning raportit](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week%202)
+[Vaata meeskonna Data Cleaning raportit](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week2/pilt2.png)
