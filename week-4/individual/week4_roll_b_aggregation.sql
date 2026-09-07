@@ -3,7 +3,6 @@
 -- 1. Kliendigruppide analüüs CTE-ga.
 -- Kasutan CTE-d, et arvutada iga kliendi kogukäive ning seejärel jagada kliendid 
 -- kogukäibe põhjal kolme segmenti: VIP (> 2500 €), Aktiivne (> 500 €) ja Tavaline (≤ 500 €).
-
 WITH kliendi_kokkuvote AS (
     SELECT
         c.customer_id,
