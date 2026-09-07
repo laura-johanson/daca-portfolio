@@ -1,4 +1,4 @@
-# Nädal 4: Team SQL Aggregation
+# Nädal 4 - Team SQL Aggregation
 
 ## Kirjeldus
 
