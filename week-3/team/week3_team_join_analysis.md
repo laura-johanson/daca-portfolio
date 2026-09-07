@@ -12,4 +12,4 @@ Meeskonnatööna koostatud ülevaade UrbanStyle'i andmetest ja peamistest JOIN-a
 
 JOIN-analüüs on koostatud meie meeskonna ühises GitHubi repos.
 
-[Vaata meeskonna JOIN-analüüsi](https://github.com/laura-johanson/urbanstyle-marketing-data/tree/main/week%203)
+[Vaata meeskonna JOIN-analüüsi](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week3/JOIN_analysis.png)
