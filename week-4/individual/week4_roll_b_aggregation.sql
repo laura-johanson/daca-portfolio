@@ -145,7 +145,7 @@ ORDER BY vip_klientide_arv DESC;
 -- Tartu: 21 VIP-klienti
 -- Pärnu: 17 VIP-klienti
 
--- Kliendi järjestamine linnas window function abil.
+-- 4. Kliendi järjestamine linnas window function abil.
 -- Kasutan RANK() window function'it, et järjestada kliendid iga linna sees
 -- kogukäibe järgi. PARTITION BY city alustab järjestuse igas linnas uuesti.
 WITH kliendi_kokkuvote AS (
