@@ -12,4 +12,4 @@ Meeskonnatööna koostatud ülevaade UrbanStyle'i andmestikust, selle tabelitest
 
 Data Landscape on koostatud meie meeskonna ühises GitHubi repos.
 
-[Vaata meeskonna Data Landscape'i](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week%201)
+[Vaata meeskonna Data Landscape'i](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week1/pilt1.png)
