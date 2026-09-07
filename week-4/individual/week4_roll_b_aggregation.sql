@@ -144,3 +144,43 @@ ORDER BY vip_klientide_arv DESC;
 -- Tallinn: 29 VIP-klienti
 -- Tartu: 21 VIP-klienti
 -- Pärnu: 17 VIP-klienti
+
+-- Kliendi järjestamine linnas window function abil.
+-- Kasutan RANK() window function'it, et järjestada kliendid iga linna sees
+-- kogukäibe järgi. PARTITION BY city alustab järjestuse igas linnas uuesti.
+WITH kliendi_kokkuvote AS (
+    SELECT
+        c.customer_id,
+        c.first_name || ' ' || c.last_name AS nimi,
+        c.city,
+        COUNT(o.sale_id) AS tellimuste_arv,
+        SUM(o.total_price) AS kogukäive
+    FROM customers c
+    JOIN sales o
+        ON c.customer_id = o.customer_id
+    GROUP BY
+        c.customer_id,
+        c.first_name,
+        c.last_name,
+        c.city
+)
+
+SELECT
+    nimi,
+    city,
+    tellimuste_arv,
+    kogukäive,
+
+    RANK() OVER (
+        PARTITION BY city
+        ORDER BY kogukäive DESC
+    ) AS koht_linnas,
+
+    CASE
+        WHEN kogukäive > 2500 THEN 'VIP'
+        WHEN kogukäive > 500 THEN 'Aktiivne'
+        ELSE 'Tavaline'
+    END AS segment
+
+FROM kliendi_kokkuvote
+ORDER BY kogukäive DESC;
