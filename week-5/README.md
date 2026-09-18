@@ -15,8 +15,10 @@ Lõin UrbanStyle’i juhtkonnale mõeldud CEO dashboardi, mis annab ühe pilguga
 ## Peamised leiud
 
  2024. aastal kasvas UrbanStyle’i müügitulu võrreldes 2023. aastaga ligikaudu **19%**.
+
  CEO dashboard koondab peamised näitajad: **müügitulu, klientide arv ja kasvutrend**.
- 2025. ja 2026. aasta müügiandmed on puudulikud, mistõttu ei saa nende perioodide põhjal teha täielikke kasvujäreldusi.
+ 
+ 2026. ja 2026. aasta müügiandmed on puudulikud, mistõttu ei saa nende perioodide põhjal teha täielikke kasvujäreldusi.
 
 ## Äriline tähelepanek
 
