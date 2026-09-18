@@ -27,3 +27,8 @@ Dashboard võimaldab juhtkonnal saada ettevõtte müügitulemustest kiire üleva
 ## AI kasutamine
 
 Kasutasin AI-d DAX-mõõdikute mõistmisel ja kontrollimisel ning Power BI visualiseeringute ja filtrite seadistamisel.
+
+## Failid
+
+- [Minu Power BI dashboard](https://github.com/laura-johanson/daca-portfolio/blob/main/week-5/individual/urbanstyle_week5_dashboard_laura_johanson.pbix)
+- [Tulemuste screenshotid](https://github.com/laura-johanson/daca-portfolio/tree/main/week-5/screenshots)
