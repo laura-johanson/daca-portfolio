@@ -43,3 +43,10 @@ Kuigi VIP-kliente on arvuliselt vähe, on nende keskmine kogukäive **üle viie 
 ## AI kasutamine
 
 Kasutasin AI-d SQL-päringute mõistmiseks, parandamiseks ja keerukamate ülesannete sammudeks jagamiseks.
+
+## Failid
+
+- [Minu SQL-päringud](https://github.com/laura-johanson/daca-portfolio/blob/main/week-4/individual/week4_roll_b_aggregation.sql)
+- [Meeskonna koondraport](https://github.com/laura-johanson/daca-portfolio/blob/main/week-4/team/week4_team_aggregation.md)
+
+
