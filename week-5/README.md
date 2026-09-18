@@ -32,3 +32,4 @@ Kasutasin AI-d DAX-mõõdikute mõistmisel ja kontrollimisel ning Power BI visua
 
 - [Minu Power BI dashboard](https://github.com/laura-johanson/daca-portfolio/blob/main/week-5/individual/urbanstyle_week5_dashboard_laura_johanson.pbix)
 - [Tulemuste screenshotid](https://github.com/laura-johanson/daca-portfolio/tree/main/week-5/screenshots)
+- [Meeskonna koondvaade](https://github.com/laura-johanson/daca-portfolio/blob/main/week-5/team/week5_team_dashboard.md)
