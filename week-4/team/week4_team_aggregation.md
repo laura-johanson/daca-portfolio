@@ -11,3 +11,5 @@ Meeskonnatööna koostatud analüüs UrbanStyle'i andmetest ja peamistest tähel
 ## Meeskonna töö
 
 Koondraport on koostatud meie meeskonna ühises GitHubi repos.
+
+[Vaata meeskonna koondraportit](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week4/week4.png)
