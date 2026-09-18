@@ -2,9 +2,9 @@
 
 ## Eesmärk
 
-1. Valida õige diagrammitüüp vastavalt äriküsimusele (joon-, tulp-, sektor-, hajuvusdiagramm ja KPI-kaart).
-2. Kavandada dashboardi paigutus, lähtudes visuaalsest hierarhiast ning Z- ja F-mustrist.
-3. Planeerida filtrite ja interaktiivsuse loogika, et muuta dashboard dünaamiliseks ja kasutajasõbralikuks.
+- Valida õige diagrammitüüp vastavalt äriküsimusele (joon-, tulp-, sektor-, hajuvusdiagramm ja KPI-kaart).
+- Kavandada dashboardi paigutus, lähtudes visuaalsest hierarhiast ning Z- ja F-mustrist.
+- Planeerida filtrite ja interaktiivsuse loogika, et muuta dashboard dünaamiliseks ja kasutajasõbralikuks.
 
 ## Minu roll
 
