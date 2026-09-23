@@ -25,5 +25,13 @@ Valisin peamised KPI-d ja visualiseeringud, kujundasin dashboardi selge visuaals
 
 Tartu tugev kasv ja keskmisest kõrgem müügisumma näitavad head müügipotentsiaali. Järgmise sammuna tasub uurida, millised tooted, kuud või müügitegevused Tartu tulemust enim toetavad ning kas sarnaseid mustreid esineb ka teistes kauplustes.
 
+## AI kasutamine
 
+Kasutasin AI-d DAX-mõõdikute mõistmisel ja kontrollimisel ning Power BI visualiseeringute seadistamisel.
+
+## Failid
+
+- [Minu Power BI dashboard](https://github.com/laura-johanson/daca-portfolio/blob/main/week-6/individual/urbanstyle_week6_dashboard_laura_johanson.pbix)
+- [Tulemuste screenshotid](https://github.com/laura-johanson/daca-portfolio/tree/main/week-6/screenshots)
+- [Meeskonna koondvaade](https://github.com/laura-johanson/daca-portfolio/blob/main/week-6/team/week6_team_dashboard.md)
 
