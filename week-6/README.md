@@ -17,7 +17,7 @@ Valisin peamised KPI-d ja visualiseeringud, kujundasin dashboardi selge visuaals
 ## Peamised leiud
 
 - Tartu käive kasvas 13% – kiiremini kui Tallinnal (11%) ja Pärnul (4%).
-- Tartu annab 17% UrbanStyle’i kogukäibest, olles oluline panustaja ettevõtte müügitulusse.
+- Tartu annab 18% UrbanStyle’i kogukäibest, olles oluline panustaja ettevõtte müügitulusse.
 - Tartu keskmine müügisumma on kõrgem kui UrbanStyle’i keskmine, mis viitab tugevamale müügiväärtusele ühe müügikirje kohta.
 - Mai–augusti 2024 müük oli järjepidevalt üle keskmise, mis viitab tugevale suvisele müügiperioodile.
 
