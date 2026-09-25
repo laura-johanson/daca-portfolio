@@ -2,7 +2,14 @@
 
 ## Kirjeldus
 
-Meeskonnatööna koostatud koondlugu UrbanStyle'i andmetest ja peamistest tähelepanekutest.
+Meeskonna ühise analüüsi käigus koostati UrbanStyle'i nelja müügiasukoha kohta eraldi dashboard'id ja andmelood:
+
+- Tallinn
+- Tartu
+- Pärnu
+- E-pood
+
+Seejärel ühendati asukohapõhised tulemused üheks terviklikuks koondvaateks, et võrrelda müügitrende, hooajalisust, tugevusi ja võimalikke arengukohti.
 
 ## Minu roll
 
