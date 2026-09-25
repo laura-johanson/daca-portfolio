@@ -14,6 +14,6 @@ Mulle meeldib leida lahendusi keerukatele ülesannetele. Mul on hea keskendumisv
 | 2 | SQL Cleaning | Läbitud |
 | 3 | SQL JOINs | Läbitud |
 | 4 | SQL Aggregation | Läbitud |
-| 5-6 | Visualiseerimine | Käimas |
-| 7-8 | Python | Tulemas |
+| 5-6 | Visualiseerimine | Läbitud |
+| 7-8 | Python | Käimas |
 | 9-10 | Portfoolio + Karjäär | Tulemas |
