@@ -1,4 +1,4 @@
-## Executive Summary
+## Juhtkonna kokkuvõte
 
 - **Tartu on tugev kasvukanal:** 2024. aastal kasvas Tartu poe käive **13%**, mis ületas Tallinna ja Pärnu kasvunäitajaid.
 - **Tartu kliendid ostavad suurema keskmise summaga:** keskmine müügisumma on **291 €**, mis on kõrgeim võrreldes teiste müügikanalitega.
