@@ -1,6 +1,11 @@
 ## Andmelugu
 
-Tartu on UrbanStyle’i suuruselt teine kauplus, mille käive kasvas 2024. aastal **13%**, ületades Tallinna 11% ja Pärnu 4% kasvu.  
-Tartu moodustab **18% UrbanStyle’i kogukäibest** ning poe keskmine müügisumma on **291 €**, mis on kõrgeim võrreldes teiste poodide ja e-poega.  
-2024. aasta **mai–augusti müük oli järjepidevalt üle keskmise** ning TOP5 toodete seas olid esikohal jooksutossud ja sportlikud püksid, mis viitab tugevale sporditoodete nõudlusele.  
-Tartu klientidest **41%-l puudus lojaalsustase**, mistõttu tasub uurida puuduvate tasemete põhjust ja korrastada kliendiandmeid, et lojaalsusprogrammi paremini kasutada.
+UrbanStyle'i **Tartu kauplus on ettevõtte suuruselt teine müügikoht ja oluline panustaja kogukäibesse**, moodustades sellest 18%.
+
+**Aga me ei teadnud, mis toetab Tartu poe kasvu ja millistes toodetes või perioodides peitub selle tugevus.**
+
+Dashboard näitab, et **2024. aastal kasvas Tartu käive 13%**, keskmine müügisumma oli **291 €** ning mai–augusti müük püsis järjepidevalt üle keskmise. TOP5 toodete seas olid esikohal **jooksutossud ja sportlikud püksid**.
+
+Nüüd teame, et **Tartu poe tugevus on nii keskmisest suurem ostusumma kui ka tugev nõudlus sporditoodete järele**, samuti on suveperiood oluline müügiaeg.
+
+**Soovitame** toetada enim müüdavate sporditoodete valikut ja müüki ning uurida, milliseid suviseid tegevusi saab tulevikus korrata. Lisaks tasub korrastada lojaalsustaseme andmeid, kuna **41%-l Tartu registreeritud klientidest puudus lojaalsustase**.
