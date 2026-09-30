@@ -1,11 +1,11 @@
-## Nädal 7: Python Pandas — RFM kliendisegmenteerimine
+# Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
-### Eesmärk
+## Eesmärk
 - Laadida ja uurida andmeid pandas DataFrame'ina, kasutades `read_csv()`, `head()`, `describe()` ja `info()`.
 - Filtreerida, grupeerida ja töödelda andmeid pandas'iga (`boolean indexing`, `groupby`, `merge`) ning mõista nende seost SQL-i `WHERE`, `GROUP BY` ja `JOIN` lausetega.
 - Luua interaktiivseid visualiseeringuid Plotly Expressiga (`px.bar`, `px.scatter`, `px.line`).
 
-### Minu roll
+## Minu roll
 **Roll C – Analysis — RFM kliendisegmenteerimine**
 
 Arvutasin iga kliendi kohta **Recency, Frequency ja Monetary** väärtused.  
