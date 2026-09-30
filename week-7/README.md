@@ -8,8 +8,9 @@
 ## Minu roll
 **Roll C – Analysis — RFM kliendisegmenteerimine**
 
-Arvutasin iga kliendi kohta **Recency, Frequency ja Monetary** väärtused.  
-Määrasin **RFM-skoorid (1–5 kvintiilide alusel)** ning lõin kliendisegmendid: **VIP Champions, Loyal, Potential, At Risk ja Lost**.
+Minu põhiülesanne oli arvutada iga kliendi kohta **Recency, Frequency ja Monetary** väärtused ning luua RFM-skooride põhjal kliendisegmendid.
+
+Töö tervikliku tulemuse saamiseks läbisin ka **Roll A, Roll B ja Roll D** ülesanded. See aitas mul mõista kogu analüüsiprotsessi algusest lõpuni ning kontrollida, et erinevate etappide tulemused oleksid õiged ja omavahel kooskõlas.
 
 ## Peamised leiud
 
