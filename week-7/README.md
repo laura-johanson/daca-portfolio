@@ -25,3 +25,11 @@ Määrasin **RFM-skoorid (1–5 kvintiilide alusel)** ning lõin kliendisegmendi
 **VIP Champions** kliendid moodustavad **43,6% klientide kogukäibest**, mis näitab nende suurt tähtsust ettevõtte käibele.
 
 **At Risk** segmenti kuuluvate 512 kliendi puhul on võimalik kasutada sihitud **win-back kampaaniaid**, et suurendada nende taasostmise tõenäosust. **Potential** segmendi klientidele võiks pakkuda tegevusi, mis aitavad neil liikuda lojaalsemate ja väärtuslikumate klientide hulka.
+
+## AI kasutamine
+
+Kasutasin AI-d õppimise toetamiseks ja probleemide lahendamisel abi saamiseks. AI aitas mul paremini mõista pandas'e, RFM-analüüsi ja Plotly kasutamist ning selgitas koodi samm-sammult. Samuti kasutasin AI-d teksti ja analüüsi tulemuste sõnastamisel.
+
+Kogu kood ja analüüs on minu enda tehtud ning kontrollisin tulemusi iseseisvalt.
+
+## Failid
