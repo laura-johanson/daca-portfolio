@@ -10,3 +10,18 @@
 
 Arvutasin iga kliendi kohta **Recency, Frequency ja Monetary** väärtused.  
 Määrasin **RFM-skoorid (1–5 kvintiilide alusel)** ning lõin kliendisegmendid: **VIP Champions, Loyal, Potential, At Risk ja Lost**.
+
+## Peamised leiud
+
+- **VIP Champions:** 455 klienti, kes moodustavad **43,6% klientide kogukäibest**.
+- **Loyal:** 684 klienti.
+- **Potential:** 740 klienti.
+- **At Risk:** 512 klienti, kelle puhul on võimalus neid uuesti aktiivseks saada.
+- **Lost:** 124 klienti, kelle ostukäitumine viitab kliendisuhte katkemisele.
+- RFM-analüüs näitas, et **väike osa kõige väärtuslikumaid kliente annab suure osa kogukäibest**, mistõttu tasub nende hoidmisele eraldi tähelepanu pöörata.
+
+## Äriline tähelepanek
+
+**VIP Champions** kliendid moodustavad **43,6% klientide kogukäibest**, mis näitab nende suurt tähtsust ettevõtte käibele.
+
+**At Risk** segmenti kuuluvate 512 kliendi puhul on võimalik kasutada sihitud **win-back kampaaniaid**, et suurendada nende taasostmise tõenäosust. **Potential** segmendi klientidele võiks pakkuda tegevusi, mis aitavad neil liikuda lojaalsemate ja väärtuslikumate klientide hulka.
