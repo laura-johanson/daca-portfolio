@@ -34,3 +34,6 @@ Kasutasin AI-d õppimise toetamiseks ja probleemide lahendamisel abi saamiseks. 
 Kogu kood ja analüüs on minu enda tehtud ning kontrollisin tulemusi iseseisvalt.
 
 ## Failid
+
+- [Minu Jupyter Notebook](https://github.com/laura-johanson/daca-portfolio/blob/main/week-7/individual/week7.ipynb)
+- [Meeskonna RFM analüüs](https://github.com/laura-johanson/daca-portfolio/blob/main/week-7/team/week7_rfm_complete.md)
