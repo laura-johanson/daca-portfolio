@@ -12,4 +12,4 @@ Meeskonnatööna läbi viidud **RFM (Recency, Frequency, Monetary) analüüs** U
 
 Terviklik **Jupyter Notebook**, kus iga sektsioon on koostatud ühe meeskonnaliikme poolt, on meie meeskonna ühises GitHubi repos.
 
-[Vaata meeskonna RFM analüüsi](LINK)
+[Vaata meeskonna RFM analüüsi](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week7/week7.ipynb)
