@@ -24,3 +24,14 @@ Töö tervikliku tulemuse saavutamiseks läbisin ka Roll B ja Roll C ülesanded.
 - Kõik kolm funktsiooni tagastavad andmed **Pandas DataFrame'ina** ja sisaldavad **veakäsitlust**.
 - Pipeline ühendab **andmete pärimise, puhastamise, töötlemise ja visualiseerimise** üheks automatiseeritud protsessiks.
 - Kogu analüüsivoo saab käivitada **ühe käsuga** ning logimine võimaldab jälgida pipeline'i töö käiku.
+
+## Äriline tähelepanek
+
+Automatiseeritud pipeline vähendab käsitsi tehtavat andmetöötlust ja muudab korduva analüüsi kiiremaks ning vähem veaohtlikuks. Edaspidi võiks automatiseerida näiteks regulaarse müügi- ja kliendisegmentide raporti koostamise ning tulemuste saatmise vastutavale töötajale. Pipeline'i töökindluse suurendamiseks võiks lisada ka automaatse veateavituse, mis annab teada, kui Supabase'iga ühenduse loomine ebaõnnestub või andmete pärimine katkeb.
+
+## AI kasutamine
+
+Kasutasin AI-d õppimise ja arendustöö toetamiseks. AI aitas mul mõista Supabase API päringute, Pandas DataFrame'ide ja pipeline'i ülesehitust, leida ja parandada vigu ning täpsustada sõnastust. Koodi lahendused ja testimise tegin ise ning kontrollisin kõik tulemused oma keskkonnas.
+
+## Failid
+
