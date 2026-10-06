@@ -15,6 +15,6 @@ Meeskond ehitas modulaarse automatiseeritud pipeline'i, mis:
 
 ## Meeskonna töö
 
-Meeskonna ühises GitHubi repos valmis terviklik pipeline, mis ühendab neli moodulit üheks süsteemiks – alates andmete pärimisest ja töötlemisest kuni visualiseerimise ning väljundfailide loomiseni.
+Terviklik pipeline, mis ühendab neli moodulit üheks süsteemiks – alates andmete pärimisest ja töötlemisest kuni visualiseerimise ning väljundfailide loomiseni, on meie meeskonna ühises GitHubi repos.
 
-**Vaata meeskonna pipeline'i:** [link lisame hiljem]
+**Vaata meeskonna pipeline'i:** 
