@@ -17,4 +17,6 @@ Meeskond ehitas modulaarse automatiseeritud pipeline'i, mis:
 
 Terviklik pipeline, mis ühendab neli moodulit üheks süsteemiks – alates andmete pärimisest ja töötlemisest kuni visualiseerimise ning väljundfailide loomiseni, on meie meeskonna ühises GitHubi repos.
 
-**Vaata meeskonna pipeline'i:** 
+## Meeskonna töö
+
+**[Vaata meeskonna pipeline'i](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week8/pipeline.py)**
