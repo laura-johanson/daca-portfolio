@@ -35,3 +35,9 @@ Kasutasin AI-d õppimise ja arendustöö toetamiseks. AI aitas mul mõista Supab
 
 ## Failid
 
+- [Andmete pärimine](https://github.com/laura-johanson/daca-portfolio/blob/main/week-8/individual/data_fetcher.py)
+- [Andmete töötlemine](https://github.com/laura-johanson/daca-portfolio/blob/main/week-8/individual/transform.py)
+- [Visualiseerimine ja salvestamine](https://github.com/laura-johanson/daca-portfolio/blob/main/week-8/individual/visualize_export.py)
+- [Automatiseerimisskript](https://github.com/laura-johanson/daca-portfolio/blob/main/week-8/individual/pipeline.py)
+- [Meeskonnatöö](https://github.com/laura-johanson/daca-portfolio/blob/main/week-8/team/week8_pipeline_demo.md)
+
