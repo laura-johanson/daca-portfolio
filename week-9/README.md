@@ -37,4 +37,4 @@ Kasutasin AI-d abivahendina teksti struktureerimisel ja sõnastuse täiendamisel
 
 ## Failid
 
-- **Meeskonnatöö – Värbamisjuhend junior-andmeanalüütikule:** [Vaata värbamisjuhendit](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week9/V%C3%A4rbamisjuhend%20junior-andmeanal%C3%BC%C3%BCtikule.png)
+- [Meeskonnatöö – Värbamisjuhend junior-andmeanalüütikule](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week9/V%C3%A4rbamisjuhend%20junior-andmeanal%C3%BC%C3%BCtikule.png)
