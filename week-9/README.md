@@ -34,3 +34,7 @@ Tehnilise värbamise eesmärk ei ole leida kõige keerulisemat koodi kirjutavat 
 ## AI kasutamine
 
 Kasutasin AI-d abivahendina teksti struktureerimisel ja sõnastuse täiendamisel. See aitas ideid korrastada ja muuta teksti selgemaks. Lõplik sisu ja sõnastus lähtusid minu enda kogemustest, tehtud töödest ja arusaamadest.
+
+## Failid
+
+- **Meeskonnatöö – Värbamisjuhend junior-andmeanalüütikule:** [Vaata värbamisjuhendit](https://github.com/laura-johanson/urbanstyle-marketing-data/blob/main/week9/V%C3%A4rbamisjuhend%20junior-andmeanal%C3%BC%C3%BCtikule.png)
