@@ -30,5 +30,3 @@ Dashboard’i väärtus ei seisne ainult andmete visualiseerimises, vaid ka olul
 ## AI kasutamine
 
 Kasutasin AI-d esitlusjutu koostamisel ja sõnastuse täpsustamisel. AI aitas muuta minu koostatud laused sujuvamaks ja suuliseks esituseks sobivamaks. Esitluse sisu ja dashboard’ide valik lähtusid minu enda tehtud tööst ja analüüsist.
-
-## Failid
