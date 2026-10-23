@@ -2,7 +2,7 @@
 
 ## Eesmärk
 
-- Viimistleda GitHubi portfoolio terviklikuks ja professionaalseks esitlusmaterjaliks, korrastades projektide struktuuri, README-failid ja AI kasutamise kirjelduse.
+- Viimistleda GitHubi portfoolio terviklikuks ja professionaalseks esitlusmaterjaliks, korrastades projektide struktuuri, README-failid ja AI kasutamise kirjeldus.
 - Koostada 7-minutiline lõppesitlus, mis ühendab tehnilise sisu, andmeanalüüsi tulemused ja andmepõhise loo jutustamise (*data storytelling*).
 - Valmistuda lõpukaitsmiseks, harjutades vastuseid levinud küsimustele ning tuues esile analüütilise mõtlemise, tehtud töö ja õpitud oskused.
 
